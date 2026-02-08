@@ -1,6 +1,6 @@
 cask "grovr" do
-  version "0.7.1"
-  sha256 "591e7d19c9e8a4a3d5f4f060b497998edcd80562ea7a0666387c4394a62858f1"
+  version "0.7.2"
+  sha256 "88dc3a15532d39c1ad2cded31c09f2ca6d79f865b854c3f5af18e2fada48323f"
 
   url "https://github.com/j1king/grovr/releases/download/v#{version}/Grovr_#{version}_aarch64.dmg"
   name "Grovr"
